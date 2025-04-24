@@ -22,10 +22,15 @@ This repository contains implementation examples of various **regression techniq
 🛠 Requirements
 
 ->Python 3.x
+
 ->NumPy
+
 ->pandas
+
 ->matplotlib / seaborn
+
 ->scikit-learn
+
 ->Jupyter Lab
 
 
