@@ -10,12 +10,13 @@ This repository contains implementation examples of various **regression techniq
 |--------------------------|------------------------------------------|
 | Linear Regression        | Simple straight-line model               |
 | Polynomial Regression    | Curve fitting with polynomial features   |
-|-- Ridge Regression         | L2 regularized regression              |
+| Random Forest Regression | Ensemble of decision trees               |
+|-- Ridge Regression       | L2 regularized regression                |
 | Lasso Regression         | L1 regularized regression                |
 | ElasticNet Regression    | Combination of L1 and L2                 |
 | Support Vector Regression| SVR using kernel trick                   |
 | Decision Tree Regression | Tree-based non-linear model              |
-| Random Forest Regression | Ensemble of decision trees               |
+
 
 
 
@@ -25,7 +26,7 @@ This repository contains implementation examples of various **regression techniq
 
 ->NumPy
 
-->pandas
+->Pandas
 
 ->matplotlib / seaborn
 
